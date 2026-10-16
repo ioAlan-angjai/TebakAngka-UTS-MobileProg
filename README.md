@@ -10,7 +10,7 @@ Aplikasi Android sederhana untuk permainan tebak angka yang dibuat untuk memenuh
 
 ## Deskripsi
 
-Aplikasi ini memilih angka secara acak dari 0 sampai 100. Pengguna harus menebak angka tersebut berdasarkan petunjuk yang diberikan oleh aplikasi.
+Aplikasi memilih angka secara acak dari 0 sampai 100. Pengguna harus menebak angka tersebut berdasarkan petunjuk yang diberikan oleh aplikasi.
 
 ## Fitur
 
@@ -18,6 +18,7 @@ Aplikasi ini memilih angka secara acak dari 0 sampai 100. Pengguna harus menebak
 - Petunjuk angka terlalu besar atau terlalu kecil.
 - Sistem skor.
 - Memulai permainan baru.
+
 
 ## Cara Menjalankan
 
